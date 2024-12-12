@@ -1,0 +1,2 @@
+Shortest path: A
+Distance: 0
